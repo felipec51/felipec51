@@ -101,7 +101,7 @@ while (cafe > 0) {
 </tr>
 </table>
 
->  **Ver todos mis repositorios →** [github.com/felipe61?tab=repositories](https://github.com/felipe61?tab=repositories)
+>  **Ver todos mis repositorios →** [github.com/felipec51?tab=repositories](https://github.com/felipec51?tab=repositories)
 
 ---
 
@@ -109,11 +109,11 @@ while (cafe > 0) {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=58A6FF&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipec51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=58A6FF&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipec51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe61&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipec51&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
 
 </div>
 
@@ -133,8 +133,8 @@ while (cafe > 0) {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipec51)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemurilloc51@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://TU_PORTFOLIO_AQUI)
 
 </div>
@@ -147,6 +147,6 @@ while (cafe > 0) {
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=felipe61&color=00D4AA&style=for-the-badge&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=felipec51&color=00D4AA&style=for-the-badge&label=VISITORS)
 
 </div>
