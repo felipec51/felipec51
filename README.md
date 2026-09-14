@@ -16,7 +16,6 @@
 
 ```
 while (cafe > 0) {
-   代码();      // sí, también mezclo idiomas
     aprender();
     crearAlgo();
     repetir();
